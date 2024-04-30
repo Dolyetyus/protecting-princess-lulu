@@ -56,13 +56,19 @@ $ pip install pygame
 
 2. Then clone this repository using:
 ```
-$ git clone repo
+$ git clone https://github.com/Dolyetyus/protecting-princess-lulu
 ```
 
 > Don't forget this command clones the repo in the current working directory in your command shell, you might want to clone the repository into Desktop or Downloads or your games folder.
 </br>
 
-3. Finally, to run the game, enter the command:
+3. Move into the game source folder:
+```
+$ chdir protecting-princess-lulu\game
+```
+</br>
+
+4. Finally, to run the game, enter the command:
 ```
 $ python game.py
 ```
